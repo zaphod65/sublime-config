@@ -1,0 +1,6 @@
+[
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["f8"], "command": "toggle_white_space"},
+    { "keys": ["f10"], "command": "toggle_line_number"}
+]
